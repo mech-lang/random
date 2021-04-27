@@ -8,7 +8,8 @@ Read about progress on our [blog](http://mech-lang.org/blog/), follow us on Twit
 
 Provided functions:
 
-- random/uniform
+- `random/uniform()`
+- `random/uniform-integer()`
 
 ## License
 
