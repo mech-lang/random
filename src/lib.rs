@@ -5,7 +5,7 @@ extern crate lazy_static;
 extern crate oorandom;
 use mech_core::{Transaction};
 use mech_core::{Value, ValueMethods, IndexIterator, Table, ValueIterator};
-use mech_core::{Quantity, ToQuantity, QuantityMath, make_quantity, hash_string};
+use mech_core::{Quantity, ToQuantity, QuantityMath, hash_string};
 use oorandom::Rand64;
 use std::sync::Mutex;
 
